@@ -1,7 +1,7 @@
+// register function we will use to convert the price column from string to int
 spark.udf.register("myConvertCurrency", (input: String) => java.text.NumberFormat.getCurrencyInstance(java.util.Locale.US).parse(input).intValue.toInt);
 
 val listingsRaw = spark.read.format("csv").option("header", "true").option("delimiter", "\t").csv("C:/Users/jon/airbnb_datasets/listings_us.csv");
-val reviews = spark.read.format("csv").option("header", "true").option("delimiter", "\t").csv("C:/Users/jon/airbnb_datasets/reviews_us.csv");
 val listings = listingsRaw.withColumn("price", callUDF("myConvertCurrency", listingsRaw("price")));
 
 listings.createOrReplaceTempView("listings")
@@ -61,3 +61,4 @@ for (city <- cities) {
 	println("Estimated money spent per year: " + moneySpentPerYear);
 }
 
+sys.exit
