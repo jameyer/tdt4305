@@ -1,0 +1,157 @@
+Outputs
+
+- 2b -
+
+Distinct values for each column in listings
+
+access: 31125
+accommodates: 16
+amenities: 53500
+availability_30: 31
+availability_365: 366
+availability_60: 61
+availability_90: 91
+bathrooms: 16
+bed_type: 5
+bedrooms: 11
+beds: 16
+calculated_host_listings_count: 37
+calendar_last_scraped: 20
+calendar_updated: 66
+cancellation_policy: 7
+city: 3
+cleaning_fee: 215
+country: 3
+country_code: 3
+description: 63293
+experiences_offered: 1
+extra_people: 117
+first_review: 2265
+guests_included: 17
+has_availability: 1
+host_about: 32203
+host_acceptance_rate: 90
+host_has_profile_pic: 2
+host_id: 51117
+host_identity_verified: 2
+host_is_superhost: 2
+host_listings_count: 95
+host_location: 1494
+host_name: 13796
+host_picture_url: 51212
+host_response_rate: 97
+host_response_time: 4
+host_since: 2707
+host_thumbnail_url: 51212
+host_total_listings_count: 95
+host_url: 51117
+host_verifications: 266
+house_rules: 35654
+id: 64649
+instant_bookable: 2
+interaction: 30392
+is_location_exact: 2
+jurisdiction_names: 6
+last_review: 1176
+last_scraped: 21
+last_searched: 5
+latitude: 64649
+license: 879
+listing_url: 64649
+longitude: 64649
+market: 42
+maximum_nights: 262
+medium_url: 56092
+minimum_nights: 68
+monthly_price: 1281
+name: 63031
+neighborhood_overview: 34230
+notes: 22975
+number_of_reviews: 293
+picture_url: 64624
+price: 669
+property_type: 26
+region_id: 1
+region_name: 1
+region_parent_id: 1
+require_guest_phone_verification: 2
+require_guest_profile_picture: 2
+requires_license: 2
+review_scores_accuracy: 9
+review_scores_checkin: 9
+review_scores_cleanliness: 9
+review_scores_communication: 9
+review_scores_location: 9
+review_scores_rating: 61
+review_scores_value: 9
+reviews_per_month: 879
+room_type: 3
+scrape_id: 7
+security_deposit: 261
+smart_location: 373
+space: 43820
+square_feet: 193
+state: 13
+street: 12102
+summary: 59283
+thumbnail_url: 56092
+transit: 36627
+weekly_price: 1136
+xl_picture_url: 56092
+zipcode: 414
+
+- 2c -
+
+Listings from 3 cities - San Francisco, Seattle, New York are contained in the dataset
+
+- 3 -
+
+--- San Francisco ---
+Average price: 251
+Average price in San Francisco for room type 'Shared room': 88
+Average price in San Francisco for room type 'Entire home/apt': 341
+Average price in San Francisco for room type 'Private room': 135
+Average number of reviews per month: 1.6781174059434907
+Estimated number of booked nights per year: 196512
+Estimated money spent per year: 3.384693788571437E7
+
+--- Seattle ---
+Average price: 131
+Average price in Seattle for room type 'Shared room': 52
+Average price in Seattle for room type 'Entire home/apt': 159
+Average price in Seattle for room type 'Private room': 77
+Average number of reviews per month: 2.078918834221248
+Estimated number of booked nights per year: 113723
+Estimated money spent per year: 1.2490070057142846E7
+
+--- New York ---
+Average price: 149
+Average price in New York for room type 'Shared room': 69
+Average price in New York for room type 'Entire home/apt': 208
+Average price in New York for room type 'Private room': 90
+Average number of reviews per month: 1.382141318286745
+Estimated number of booked nights per year: 923823
+Estimated money spent per year: 1.263583086857144E8
+
+- 4 -
+
+Average number of listings per host: 1.2647260206976152
+Percentage of hosts with more than 1 listing: 0.14554845
+
+--- San Francisco ---
+Top 3 hosts with highest income are Max ($3950000), Ramil ($3920000), Matt ($1913800)
+--- Seattle ---
+Top 3 hosts with highest income are Jordan ($3420683), Sea To Sky Rentals ($3330909), Daniela ($2487022)
+--- New York ---
+Top 3 hosts with highest income are Jessica & Doug ($7421883), John ($4811400), 124 ($4303309)
+
+- 5 -
+
+--- San Francisco ---
+Top 3 guests are Emily (87), Zafar (81), Claire (75)
+--- Seattle ---
+Top 3 guests are Amanda (213), Kathryn (102), David (81)
+--- New York ---
+Top 3 guests are J. B. (237), Andy (123), Adrienne (99)
+
+Most spending guest is Claire ($57132)

@@ -4,13 +4,13 @@ spark.udf.register("myConvertCurrency", (input: String) => java.text.NumberForma
 val listingsRaw = spark.read.format("csv").option("header", "true").option("delimiter", "\t").csv("C:/Users/jon/airbnb_datasets/listings_us.csv");
 val listings = listingsRaw.withColumn("price", callUDF("myConvertCurrency", listingsRaw("price")));
 
-listings.createOrReplaceTempView("listings")
+listings.createOrReplaceTempView("listings");
 
 // 2b
 
 println("Distinct values for each column in listings");
 
-// listings.columns.foreach(column => println(column + ": " + spark.sql("select count(distinct " + column + ") from listings").head.getLong(0)))
+listings.columns.foreach(column => println(column + ": " + spark.sql("select count(distinct " + column + ") from listings").head.getLong(0)))
 
 // 2c
 val cities = spark.sql("select distinct city from listings").map(_.getString(0)).collect;
