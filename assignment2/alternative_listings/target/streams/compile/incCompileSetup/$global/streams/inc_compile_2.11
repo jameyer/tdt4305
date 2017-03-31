@@ -1,0 +1,332 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$2$$anonfun$apply$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$2.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$3.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$4.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$main$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$main$2.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator1$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator2$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator3$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator4$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$.class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings.class
+binary dependencies:
+6 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$2$$anonfun$apply$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$3
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$4
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$main$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$anonfun$main$2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$typecreator1$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$typecreator2$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$typecreator3$1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings$$typecreator4$1
+used names:
+203 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $m
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $m$untyped
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $typecreator1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $typecreator2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $typecreator3
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $typecreator4
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> $u
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> *
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> +
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> -
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> /
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> <init>
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> <repeated>
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ?0
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> A
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> A1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> A2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AlternativeListings
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Any
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> AnyRef
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Array
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ArrayOps
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> B
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Builder
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> CanBuildFrom
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Class
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ClassLoader
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ClassSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ClassTag
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Column
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ColumnName
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> DataFrame
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> DataFrameReader
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> DataFrameWriter
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Dataset
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Double
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Function1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Function2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> GenSeq
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Int
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Internal
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> JavaUniverse
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> List
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ListBuffer
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Locale
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Mirror
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ModuleSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Nil
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Nothing
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Number
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> NumberFormat
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Object
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Predef
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> R
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> RT
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ReificationSupportApi
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> RichDouble
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> RootClass
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Row
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Seq
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> SingleType
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Singleton
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> SparkConf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> SparkContext
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> SparkSession
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> String
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> StringContext
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> StringOps
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> StringToColumn
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Symbol
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> T
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> T0
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> That
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> ThisType
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Type
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> TypeCreator
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> TypeRef
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> TypeSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> TypeTag
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> U
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> US
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Unit
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> Universe
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> UserDefinedFunction
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> WrappedArray
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> _$4
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> _$7
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> a
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> apache
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> apply
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> args
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> asInstanceOf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> asModule
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> asType
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> asin
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> augmentString
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> builder
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> c
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> canBuildFrom
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> coalesce
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> collect
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> collection
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> commonAmenitiesUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> conf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> convertCurrencyUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> cos
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> createOrReplaceTempView
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> csv
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentAmenities
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentDate
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentLatitude
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentListing
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentListingId
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentLongitude
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentMaxPrice
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> currentRoomType
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> dLat
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> dLon
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> distanceUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> doubleWrapper
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> finalListings
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> foreach
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> format
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> functions
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getAs
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getClass
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getClassLoader
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getCurrencyInstance
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getInt
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getOrCreate
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> getString
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> haversine
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> head
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> immutable
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> implicits
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> input
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> intValue
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> internal
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> intersect
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> java
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> lat
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> lat1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> lat2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> length
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> limit
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> lon1
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> lon2
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> long
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> map
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> materializeClassTag
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> materializeTypeTag
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> math
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> maxDistance
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> moduleClass
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> mutable
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> newRelevantListings
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> normalizeTextUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> option
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> org
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> package
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> parse
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> path
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> pow
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> pricePercent
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> println
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> read
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> refArrayOps
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> reflect
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> reificationSupport
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> relevantListings
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> replaceAll
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> runtime
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> runtimeMirror
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> s
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> save
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> sc
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> scala
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> selectType
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> setAppName
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> setLogLevel
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> sin
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> spark
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> split
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> sql
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> sqrt
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> staticClass
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> staticModule
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> staticPackage
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> stop
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> text
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> thisPrefix
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> toDouble
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> toInt
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> toLowerCase
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> toRadians
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> toTypeConstructor
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> trim
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> udf
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> universe
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> util
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> withColumn
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> write
+product stamps:
+13 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$1.class -> lastModified(1490972035118)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$2$$anonfun$apply$1.class -> lastModified(1490972035131)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$2.class -> lastModified(1490972035126)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$3.class -> lastModified(1490972035139)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$4.class -> lastModified(1490972035147)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$main$1.class -> lastModified(1490972035152)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$anonfun$main$2.class -> lastModified(1490972035158)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator1$1.class -> lastModified(1490972035165)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator2$1.class -> lastModified(1490972035168)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator3$1.class -> lastModified(1490972035176)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$$typecreator4$1.class -> lastModified(1490972035182)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings$.class -> lastModified(1490972035108)
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\target\scala-2.11\classes\AlternativeListings.class -> lastModified(1490972034995)
+source stamps:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> hash(32e72fe7d90192ffbd7ef8b9ae97e44bfff75919)
+binary stamps:
+6 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1478131829974)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar -> lastModified(1435004253000)
+class names:
+6 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Row
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SQLImplicits
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.mutable.ListBuffer
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwD2VVfwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzQVtx3QABm5vdGlmeXNxAH4ADDKebs90AAR3YWl0c3EAfgAMv5AQmHQADSRhc0luc3RhbmNlT2ZzcQB+AAzDb3ZUdAAGZXF1YWxzc3EAfgAMcok4YHQADGFzSW5zdGFuY2VPZnNxAH4ADNRgA6l0AAloYXZlcnNpbmVzcQB+AAxQ+969dAAMc3luY2hyb25pemVkc3EAfgAM/RY3hHQADSRpc0luc3RhbmNlT2ZzcQB+AAwVw656dAAEbWFpbnNxAH4ADOH4VAh0AAlub3RpZnlBbGxzcQB+AAwjZgcEdAAMaXNJbnN0YW5jZU9mc3EAfgAMsfNcOnQAE0FsdGVybmF0aXZlTGlzdGluZ3NzcQB+AAxqBY5ddAACPT1zcQB+AAz72QPpdAAFY2xvbmVzcQB+AAz6H+PvdAAIdG9TdHJpbmdzcQB+AAwt8mgQdAACIT1zcQB+AAzSekCwdAAIZ2V0Q2xhc3NzcQB+AAy1ASuJdAACbmVzcQB+AAwa7WsJdAACZXFzcQB+AAw/wEcAdAACIyNzcQB+AAzsGO6OdAAIZmluYWxpemVzcQB+AAxFNgWEdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBfc3EAfgBadXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAfdXEAfgBSAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+c3EAfgBadXEAfgA+AAAAAHNxAH4AWnVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVsk27o+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDLnL+fZAZL/vX74ua6X5Ev/91kZ
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\alternative_listings\src\main\scala\alternative_listings.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWySt0jx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyS3XLd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyS32/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyS4qQV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyTMywF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyTTgOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyTbuj51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAV0M6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcYWx0ZXJuYXRpdmVfbGlzdGluZ3NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

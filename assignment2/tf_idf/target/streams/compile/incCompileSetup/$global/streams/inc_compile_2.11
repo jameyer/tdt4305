@@ -1,0 +1,344 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$1$$anonfun$apply$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$2.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$3.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$5.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$6.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$2$$anonfun$4.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$2.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$3.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator1$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator2$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator3$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator4$1.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$.class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF.class
+binary dependencies:
+6 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Program Files\Java\jre1.8.0_111\lib\rt.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$1$$anonfun$apply$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$3
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$5
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$6
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$main$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$main$2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$main$2$$anonfun$4
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$anonfun$main$3
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$typecreator1$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$typecreator2$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$typecreator3$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF$$typecreator4$1
+used names:
+200 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $conforms
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $m
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $m$untyped
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $typecreator1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $typecreator2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $typecreator3
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $typecreator4
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> $u
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> *
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> +
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> +=
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> /
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> <:<
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> <init>
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> <repeated>
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> >
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ?0
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> A
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> A1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Any
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> AnyRef
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Array
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ArrayOps
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> B
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Boolean
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Builder
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> CanBuildFrom
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Class
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ClassLoader
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ClassSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ClassTag
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Column
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ColumnName
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> DataFrame
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> DataFrameReader
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Dataset
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Double
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Float
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Function1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> GenTraversableOnce
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> IndexedSeq
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Int
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Internal
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Iterator
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> JavaUniverse
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> List
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ListBuffer
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Long
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Mirror
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ModuleSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Nil
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Nothing
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Object
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Option
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Ordering
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> PartitionCoalescer
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Predef
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> RDD
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> RT
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ReificationSupportApi
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Row
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Seq
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> SingleType
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Singleton
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> SparkConf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> SparkContext
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> SparkSession
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> String
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> StringContext
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> StringToColumn
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Symbol
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> T
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> T0
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> T1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> T2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TF_IDF
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> That
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> ThisType
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Tuple2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Type
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TypeCreator
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TypeRef
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TypeSymbol
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> TypeTag
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> U
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Unit
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> Universe
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> UserDefinedFunction
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> WrappedArray
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> _$4
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> _$7
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> _1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> _2
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> apache
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> apply
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> args
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> asInstanceOf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> asModule
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> asType
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> builder
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> canBuildFrom
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> coalesce
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> collect
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> collection
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> conf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> count
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> createOrReplaceTempView
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> csv
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> description
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> distinct
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> equals
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> filter
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> filteredWords
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> first
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> flatten
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> flattenArrayUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> foreach
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> format
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> functions
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> getAs
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> getClass
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> getClassLoader
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> getLong
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> getOrCreate
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> head
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> idf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> immutable
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> implicits
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> input
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> internal
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> isNotNull
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> length
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> listBuffer
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> listing_id
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> listings
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> map
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> materializeClassTag
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> materializeTypeTag
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> math
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> mkString
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> moduleClass
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> mutable
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> neighbourhood
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> neighbourhoods
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> normalizeTextUdf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> numberOfDocumentsWithWord
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> occurencesInCurrentListing
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> option
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> org
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> package
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> parallelize
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> path
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> println
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> qual$1
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> read
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> refArrayOps
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> reflect
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> reificationSupport
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> replaceAll
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> reverse
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> runtime
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> runtimeMirror
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> s
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> saveAsTextFile
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> sc
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> scala
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> selectType
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> setAppName
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> setLogLevel
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> sortBy
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> spark
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> split
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> sql
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> staticClass
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> staticModule
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> staticPackage
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> stop
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> take
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> tf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> tf_idf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> tfidfs
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toDouble
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toFloat
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toList
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toLowerCase
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toSeq
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> toTypeConstructor
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> totalNumberOfDocuments
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> trim
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> udf
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> universe
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> withColumn
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> word
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> words
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> wordsDistinct
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> x
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> x$6
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> x$7
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> x$8
+product stamps:
+16 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$1$$anonfun$apply$1.class -> lastModified(1490977896402)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$1.class -> lastModified(1490977896346)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$2.class -> lastModified(1490977896479)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$3.class -> lastModified(1490977896587)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$5.class -> lastModified(1490977896710)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$6.class -> lastModified(1490977896715)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$1.class -> lastModified(1490977896761)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$2$$anonfun$4.class -> lastModified(1490977896958)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$2.class -> lastModified(1490977896846)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$anonfun$main$3.class -> lastModified(1490977896966)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator1$1.class -> lastModified(1490977896984)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator2$1.class -> lastModified(1490977897073)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator3$1.class -> lastModified(1490977897141)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$$typecreator4$1.class -> lastModified(1490977897211)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF$.class -> lastModified(1490977896236)
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\target\scala-2.11\classes\TF_IDF.class -> lastModified(1490977895944)
+source stamps:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> hash(d2ec3681700471cc5a6fa524e1d990b5f7b877d0)
+binary stamps:
+6 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> lastModified(1478131829974)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar -> lastModified(1435004253000)
+class names:
+6 items
+C:\Program Files\Java\jre1.8.0_111\lib\rt.jar -> java.lang.Object
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.Row
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.PartitionCoalescer
+C:\Users\jon\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.SQLImplicits
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.IterableLike
+C:\Users\jon\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwW1bAcAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwV03Hh3QABm5vdGlmeXNxAH4ADOwdZt10AAR3YWl0c3EAfgAMzLJHu3QADSRhc0luc3RhbmNlT2ZzcQB+AAyCg512dAAGVEZfSURGc3EAfgAMigVu+HQABmVxdWFsc3NxAH4ADPEir550AAxhc0luc3RhbmNlT2ZzcQB+AAysYxqIdAAMc3luY2hyb25pemVkc3EAfgAMvwURE3QADSRpc0luc3RhbmNlT2ZzcQB+AAxGp8V1dAAEbWFpbnNxAH4ADKSBwuF0AAlub3RpZnlBbGxzcQB+AAwO8U3ydAAMaXNJbnN0YW5jZU9mc3EAfgAMU3DltnQAAj09c3EAfgAMrbdlbHQABWNsb25lc3EAfgAM7Tg8k3QACHRvU3RyaW5nc3EAfgAM8zVoN3QAAiE9c3EAfgAMc73wKnQACGdldENsYXNzc3EAfgAM+HtkFnQAAm5lc3EAfgAMXB0AYXQAAmVxc3EAfgAMAE7yM3QAAiMjc3EAfgAMFBBwQ3QACGZpbmFsaXplc3EAfgAMJAbKqnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbJTUMXXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AElDOlxVc2Vyc1xqb25cRGVza3RvcFx0ZHQ0MzA1XGFzc2lnbm1lbnQyXHRmX2lkZlx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0uw2gXAEccxab6Uk4dmQtfe4d9A=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\jon\Desktop\tdt4305\assignment2\tf_idf\src\main\scala\tf_idf.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWxvDosN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWxvEmX91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWx+za6d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWx+1mQF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWx/hDpN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWx/j67F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWx/pt5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyAuE1R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQkM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyUTdD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGZfaWRmXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyUaxe91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGZfaWRmXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyUkRSN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGZfaWRmXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyUsaNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGZfaWRmXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWyU1DF11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXGpvblxEZXNrdG9wXHRkdDQzMDVcYXNzaWdubWVudDJcdGZfaWRmXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
